@@ -3,7 +3,7 @@
 These scripts replicate main results for the paper entitled "A machine learning perspective on responsible gambling"
 You can access the paper via https://doi.org/10.1017/bpp.2019.9
 
-To obtain the results you need to run these codes as below:
+To obtain the results you can just run the script "Step1_Runner.m" which follows these steps::
 1) Preprocessing: run the script "Builder.m"
 2) Modelling: to run the main results with logit use the script "MainModeller.m"
 3) Minimum likelihood: to run the results for a minimum likelihood logit approach, use the script "MinL_Modeller.m"
